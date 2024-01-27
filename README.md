@@ -1,2 +1,2 @@
 # calculator
-this is my second refository <br> author-:shubham Choudhary
+this is my second repository<br> author-:shubham Choudhary
